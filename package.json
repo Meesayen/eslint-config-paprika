@@ -1,0 +1,47 @@
+{
+  "name": "eslint-config-paprika",
+  "description": "Just my spiced up ESLint shareable config to be used with XO",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "meesayen/eslint-config-paprika",
+  "main": "./index.js",
+  "author": {
+    "name": "Federico Giovagnoli",
+    "email": "gvg.fede@gmail.com"
+  },
+  "files": [
+    "index.js",
+    "vue.js"
+  ],
+  "keywords": [
+    "🌶",
+    "❤️",
+    "vue",
+    "eslintconfig",
+    "xo",
+    "xoxo",
+    "hugs",
+    "kisses",
+    "happy",
+    "happiness",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "eslint",
+    "validate",
+    "code style",
+    "standard",
+    "strict",
+    "check",
+    "checker",
+    "verify",
+    "enforce",
+    "hint",
+    "simple"
+  ],
+  "dependencies": {
+    "eslint-plugin-vue": "^2.0.1"
+  }
+}
