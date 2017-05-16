@@ -39,6 +39,20 @@ Use the `vue` sub-config if you are working with `*.vue` files:
 }
 ```
 
+## Get the badge ✌️
+
+Choose your flavorite one 😋
+
+[![Code Style](https://img.shields.io/badge/code%20style-XO%20paprika-f75612.svg)](https://www.npmjs.com/package/eslint-config-paprika)
+```
+[![Code Style](https://img.shields.io/badge/code%20style-XO%20paprika-f75612.svg)](https://www.npmjs.com/package/eslint-config-paprika)
+```
+
+[![Code Style](https://img.shields.io/badge/code%20style-XO%20🌶-000000.svg)](https://www.npmjs.com/package/eslint-config-paprika)
+
+```
+[![Code Style](https://img.shields.io/badge/code%20style-XO%20🌶-000000.svg)](https://www.npmjs.com/package/eslint-config-paprika)
+```
 
 ## Related
 
