@@ -1,5 +1,7 @@
+const path = require('path')
+
 module.exports = {
-  extends: './index.js',
+  extends: path.join(__dirname, 'index.js'),
   plugins: [
     'vue'
   ],

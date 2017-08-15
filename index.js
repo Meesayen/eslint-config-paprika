@@ -13,6 +13,24 @@ module.exports = {
     'curly': ['error', 'multi-line'],
     'eqeqeq': ['error', 'always', { 'null': 'ignore' }],
     'no-eq-null': 'off',
-    'import/extensions': 'off'
+    'quote-props': ['error', 'consistent'],
+    'promise/param-names': 'off',
+    'operator-linebreak': [
+      'error',
+      'after',
+      {
+        'overrides': {
+          '?': 'before',
+          ':': 'before'
+        }
+      }
+    ],
+    'generator-star-spacing': [
+      'error',
+      {
+        'before': true,
+        'after': false
+      }
+    ]
   }
 }

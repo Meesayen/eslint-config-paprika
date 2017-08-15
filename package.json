@@ -5,6 +5,9 @@
   "license": "MIT",
   "repository": "meesayen/eslint-config-paprika",
   "main": "./index.js",
+  "scripts": {
+    "pub": "np --no-yarn --no-cleanup"
+  },
   "author": {
     "name": "Federico Giovagnoli",
     "email": "gvg.fede@gmail.com"
@@ -43,5 +46,8 @@
   ],
   "dependencies": {
     "eslint-plugin-vue": "^2.0.1"
+  },
+  "devDependencies": {
+    "np": "^2.16.0"
   }
 }
