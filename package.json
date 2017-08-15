@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-paprika",
   "description": "Just my spiced up ESLint shareable config to be used with XO",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "repository": "meesayen/eslint-config-paprika",
   "main": "./index.js",
